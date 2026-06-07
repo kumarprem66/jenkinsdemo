@@ -9,6 +9,6 @@ public class TestingController {
 
     @GetMapping("/test")
     public String test() {
-        return "running...";
+        return prem "running...";
     }
 }
